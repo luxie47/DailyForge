@@ -7,6 +7,8 @@
 
 ---
 
+![DailyForge Banner](https://raw.githubusercontent.com/luxie47/DailyForge/main/banner.svg)
+
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)
