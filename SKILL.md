@@ -1,6 +1,6 @@
 ---
 name: dailyforge
-description: DailyForge — a world-class prompt engineering system for Claude. Triggers ONLY when user message starts with /dailyforge prefix, OR when user says keywords "prompt debug", "prompt translate", "prompt compare" (with or without prefix). Transforms weak prompts into structured master prompts via category-by-category questioning. Full command system: /dailyforge refine, save, list, history, reset, mode on/off, guide, score, template, debug, translate, compare, batch, challenge, tip, export. Use this skill whenever /dailyforge appears, or when the above keywords are detected. If the user seems to be doing prompt engineering WITHOUT the prefix, respond normally but add ONE line at the very end: "Did you mean to use /dailyforge?" — nothing more.
+description: "DailyForge — a world-class prompt engineering system for Claude. Triggers ONLY when user message starts with /dailyforge prefix, OR when user says keywords prompt debug, prompt translate, prompt compare (with or without prefix). Transforms weak prompts into structured master prompts via category-by-category questioning. Full command system: refine, save, list, history, reset, mode, guide, score, template, debug, translate, compare, batch, challenge, tip, export. If the user seems to be doing prompt engineering WITHOUT the prefix, respond normally but add ONE line at the very end: Did you mean to use /dailyforge?"
 ---
 
 # DAILYFORGE — PROMPT ENGINEERING SYSTEM
