@@ -122,6 +122,20 @@ Most people write prompts by trial and error. DailyForge makes it a system:
 - **Memory** — save, list, recover prompts within a session
 
 ---
+## Example — Full 7-Category Flow
+
+**User:** `/dailyforge write cold emails for a SaaS product`
+
+**DailyForge asks:**
+1. Goal: What action should the reader take?
+2. Audience: Who are you targeting? Job title, industry?
+3. Tone: Formal, casual, bold?
+4. Constraints: Max length? Avoid any words/phrases?
+5. Role: Should Claude act as a sales expert, founder, copywriter?
+6. Output format: Subject line + body? Bullet points?
+7. What NOT to do: No pushy language? No generic openers?
+
+**Result:** Complete master prompt delivered in a code block, auto-scored.
 
 ## License
 
